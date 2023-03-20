@@ -1,0 +1,8 @@
+name: "Minecraft Unit Tests"
+
+description: "Runs Unit tests in datapacks and show them directly on Github"
+
+runs:
+  using: docker
+  image: .
+  
